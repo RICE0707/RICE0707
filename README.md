@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**RICE0707/RICE0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E1A4&width=435&lines=%E5%93%88%E5%9B%89%E6%88%91%E6%98%AFRiceChen_%EF%BC%8C%E6%88%91%E6%B2%92%E6%83%B3%E5%88%B0%E6%9C%89%E4%BA%BA%E6%9C%83%E6%89%BE%E5%88%B0%E9%80%99%E8%A3%A1%E3%84%9D)](https://github.com/RICE0707)
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 &nbsp;關於我 </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 &nbsp; 我是[輝煌伺服器](https://discord.gg/5MHGpAFGEN)服主，也是[花瓶機器人](https://discord.gg/c4tKJME4hE)的主要維護者，
+- 💬 &nbsp; 然後就沒什麼好說的了。
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+<h3> 📈 &nbsp;我的邊緣資訊</h3>
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RICE0707&theme=dark&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RICE0707&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=RICE0707&theme=radical)
+
+</div>
