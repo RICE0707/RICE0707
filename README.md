@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;關於我 </h3>
 
-- 💼 &nbsp; 我是[輝煌伺服器](https://discord.gg/5MHGpAFGEN)服主，也是[花瓶機器人](https://discord.gg/c4tKJME4hE)的主要維護者，
+- 💼 &nbsp; 我是[輝煌伺服器](https://discord.gg/5MHGpAFGEN)服主，也是[花瓶機器人](https://github.com/RICE0707/Elysia_Bot)的主要維護者，
 - 💬 &nbsp; 然後就沒什麼好說的了。
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
