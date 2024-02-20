@@ -15,14 +15,6 @@
 
 <h3> 📈 &nbsp;我的邊緣資訊</h3>
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RICE0707&theme=dark&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RICE0707&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
-</div>
-
 <br/>
 
 <div align="center">
