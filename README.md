@@ -6,8 +6,9 @@
 - 💼 &nbsp; 我是[輝煌伺服器](https://discord.gg/5MHGpAFGEN)服主。
 - 💬 &nbsp; 然後就沒什麼好說的了。
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Java](https://img.shields.io/badge/java-333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
