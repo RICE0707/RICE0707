@@ -20,6 +20,6 @@
 
 <div align="center">
 
-  ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RICE0707&theme=dark)
+  ![GitHub Readme Streak Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RICE0707&theme=dark)
 
 </div>
