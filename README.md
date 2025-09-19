@@ -3,8 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;關於我 </h3>
 
-- 💼 &nbsp; 我是[輝煌伺服器](https://discord.gg/5MHGpAFGEN)服主。
-- 💬 &nbsp; 然後就沒什麼好說的了。
+- 💼 &nbsp; [輝煌 Minecraft 伺服器](https://discord.gg/5MHGpAFGEN)服主。
 
   ![Java](https://img.shields.io/badge/java-333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
@@ -13,13 +12,3 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-<h3> 📈 &nbsp;我的邊緣資訊</h3>
-
-<br/>
-
-<div align="center">
-
-  ![GitHub Readme Streak Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RICE0707&theme=dark)
-
-</div>
