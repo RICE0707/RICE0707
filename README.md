@@ -8,7 +8,3 @@
   ![Java](https://img.shields.io/badge/java-333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
